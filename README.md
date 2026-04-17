@@ -1,4 +1,4 @@
-# RohitUltimate/Qwen3.5_VL_2B_full_3 - Private, Uncensored AI for Real Creators and Devs
+# RohitUltimate/Qwen3.5_VL_2B_full_3  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
